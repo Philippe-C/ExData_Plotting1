@@ -6,8 +6,7 @@ if (!"load_data.R" %in% list.files()) {
 source("load_data.R")
 ### Step 3: Creation of the first plot: an histogram
 png(filename = "plot1.png", 
-    width = 480, height = 480, 
-    units = "px", bg = "transparent")
+    width = 480, height = 480)
 hist(Global_active_power, 
      col = "red", 
      main = "Global Active Power", 
