@@ -1,4 +1,5 @@
 # STEP 1: Loading the large dataset.
+# Caution: you have to refer to the directory you have used to saved the data on your own computer!
 filename <- "/Users/Philio/household_power_consumption.txt"
 data <- read.table(filename,
                    header = TRUE,
