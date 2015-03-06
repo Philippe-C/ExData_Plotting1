@@ -11,11 +11,11 @@ Here is the final results:
 ### Plot 1
 ![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
 ### Plot 2
-![plot2](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+![plot2](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot2.png?raw=true)
 ### Plot 3
-![plot3](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+![plot3](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot3.png?raw=true)
 ### Plot 4
-![plot4](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+![plot4](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot4.png?raw=true)
 
 Have fun!
 
