@@ -10,10 +10,13 @@ Here is the final results:
 
 ### Plot 1
 ![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
-### Plot 1
-![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
-### Plot 1
-![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+### Plot 2
+![plot2](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+### Plot 3
+![plot3](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+### Plot 4
+![plot4](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+
 Have fun!
 
 (The complete instructions from Coursera for the assignment are given below)
