@@ -7,6 +7,11 @@ The "Plot1.R", "Plot2.R", and "Plot3.R" files use these data to built the reques
 
 In order to use a slightly different method to access the data, "Plot4.R" present another way of coding the access and the subsetting of the data and allows to create the last requested plot (the multiple plot "Plot4.png")
 
+### Plot 1
+
+
+![plot1](figure/Plot1.png) 
+
 Have fun!
 
 (The complete instructions from Coursera for the assignment are given below)
