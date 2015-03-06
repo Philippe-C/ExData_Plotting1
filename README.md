@@ -25,6 +25,8 @@ Philippe-C
 
 (The complete instructions from Coursera for the assignment are given below)
 
+
+
 ## Introduction
 
 
