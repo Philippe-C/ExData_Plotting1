@@ -1,4 +1,3 @@
-Remark:
 
 This is the assignment corresponding to the first week in the Exploratory Data Analysis course from Coursera!
 
@@ -7,11 +6,14 @@ The "Plot1.R", "Plot2.R", and "Plot3.R" files use these data to built the reques
 
 In order to use a slightly different method to access the data, "Plot4.R" present another way of coding the access and the subsetting of the data and allows to create the last requested plot (the multiple plot "Plot4.png")
 
+Here is the final results:
+
 ### Plot 1
-
-
-![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true) 
-
+![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+### Plot 1
+![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+### Plot 1
+![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
 Have fun!
 
 (The complete instructions from Coursera for the assignment are given below)
