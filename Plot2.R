@@ -7,5 +7,5 @@ source("load_data.R")
 ### Step 3: Creation of the second plot: Global Active Power as a function of DateTime
 png(filename = "plot2.png",width = 480, height = 480,)
 plot(DateTime, Global_active_power,type = "l", xlab = "",ylab = "Global Active Power (kilowatts)")
-### Step 4: Do not forget to exit the graphic device
+#### Step 4: Do not forget to exit the graphic device
 dev.off()
