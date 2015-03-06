@@ -4,7 +4,7 @@ if (!"load_data.R" %in% list.files()) {
 } 
 ## Step2: Access the data
 source("load_data.R")
-### Step 3: Creation of the second plot: Global Active Power as a function of DateTime
+### Step 3: Creation of the third plot: Energy sub metering (1,2,3) as a function of DateTime
 png(filename = "plot3.png",width = 480, height = 480)  
 plot(DateTime, Sub_metering_1, type = "l", col = "black",
      xlab = "", ylab = "Energy sub metering")
