@@ -10,7 +10,7 @@ In order to use a slightly different method to access the data, "Plot4.R" presen
 ### Plot 1
 
 
-![plot1](Plot1.png) 
+![plot1](images/Plot1.png?raw=true) 
 
 Have fun!
 
