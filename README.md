@@ -10,7 +10,7 @@ In order to use a slightly different method to access the data, "Plot4.R" presen
 ### Plot 1
 
 
-![plot1](images/Plot1.png?raw=true) 
+![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true) 
 
 Have fun!
 
