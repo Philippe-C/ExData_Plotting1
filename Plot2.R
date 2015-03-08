@@ -1,4 +1,4 @@
-Step 1: Check the presence of the file for loading data - Please refer to the load_data.R file in the repo for more details!
+# Step 1: Check the presence of the file for loading data - Please refer to the load_data.R file in the repo for more details!
 if (!"load_data.R" %in% list.files()) {
         setwd("~/ExData_Plotting1")
 } 
