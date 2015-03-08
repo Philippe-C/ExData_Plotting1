@@ -22,5 +22,5 @@ lines(datetime, subMetering2, type="l", col="red")
 lines(datetime, subMetering3, type="l", col="blue")
 legend("topright", c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), lty=, lwd=2.5, col=c("black", "red", "blue"), bty="o")
 plot(datetime, globalReactivePower, type="l", xlab="datetime", ylab="Global_reactive_power")
-##### Step 4: Do not forget to exit the graphic device
+#### Step 4: Do not forget to exit the graphic device
 dev.off()
