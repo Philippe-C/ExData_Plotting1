@@ -18,4 +18,4 @@ newData$DateTime <- strptime(x, "%d/%m/%Y %H:%M:%S")
 rownames(newData) <- 1:nrow(newData)
 dim(newData) # 2880 BY 10: much smaller dataset !!!
 attach(newData)
-### These are the data that will be used to built the 4 different plots.
+### These are the data that will be used to built the different plots.
