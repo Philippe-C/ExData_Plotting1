@@ -12,5 +12,5 @@ lines(DateTime, Sub_metering_2, col = "red")
 lines(DateTime, Sub_metering_3, col = "blue")
 legend("topright",col = c("black", "red", "blue"),
        c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),lwd = 1)
-### Step 4: Do not forget to exit the graphic device
+#### Step 4: Do not forget to exit the graphic device
 dev.off()
